@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" width="150" height="150" />
-
 ## Erick Ribeiro
 
 Hello, my name is Erick Ribeiro, and I am a programming enthusiast who is always looking to experiment and learn new things in the field. Currently, my focus is web development, but my favorite practice is developing algorithms in C.
